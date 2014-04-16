@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Tests
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Tests/packages.config
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Tests/App.config
+END
+UnitTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Tests/UnitTests.cs
+END
+SIL.Tests.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Tests/SIL.Tests.csproj
+END
+TestContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Tests/TestContext.cs
+END
+GlimpseSecurityPolicy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Tests/GlimpseSecurityPolicy.cs
+END

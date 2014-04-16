@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/packages.config
+END
+BaseContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/BaseContext.cs
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.DataLayer/App.config
+END
+IUnitOfWork.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/IUnitOfWork.cs
+END
+UserContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/UserContext.cs
+END
+Disposable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/Disposable.cs
+END
+SIL.DataLayer.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.DataLayer/SIL.DataLayer.csproj
+END
+DatabaseFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/DatabaseFactory.cs
+END
+SILContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/SILContext.cs
+END
+IContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/IContext.cs
+END
+IDatabaseFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/IDatabaseFactory.cs
+END
+ISilContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/ISilContext.cs
+END
+UnitOfWork.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/UnitOfWork.cs
+END
+WebsiteContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/WebsiteContext.cs
+END
+GlimpseSecurityPolicy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/GlimpseSecurityPolicy.cs
+END

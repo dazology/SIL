@@ -1,0 +1,7 @@
+﻿@model SIL.Web.ViewModels.WebsiteViewModel
+
+<div>
+    <iframe src="@Model.URL" >
+
+    </iframe>
+</div>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/Views/Account
+END
+ChangePassword.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/Views/Account/ChangePassword.cshtml
+END
+Login.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/Views/Account/Login.cshtml
+END
+LogOn.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/Views/Account/LogOn.cshtml
+END
+ChangePasswordSuccess.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/Views/Account/ChangePasswordSuccess.cshtml
+END
+Register.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/Views/Account/Register.cshtml
+END

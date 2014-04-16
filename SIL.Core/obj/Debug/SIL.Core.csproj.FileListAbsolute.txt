@@ -1,0 +1,13 @@
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.Core\bin\Debug\SIL.Core.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.Core\bin\Debug\SIL.Core.pdb
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.Core\obj\Debug\SIL.Core.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.Core\obj\Debug\SIL.Core.pdb
+C:\Projects\SIL\SIL.Core\bin\Debug\SIL.Core.dll
+C:\Projects\SIL\SIL.Core\bin\Debug\SIL.Core.pdb
+C:\Projects\SIL\SIL.Core\obj\Debug\SIL.Core.dll
+C:\Projects\SIL\SIL.Core\obj\Debug\SIL.Core.pdb
+C:\Projects\SoftwareInformationLibrary\SIL.Core\bin\Debug\SIL.Core.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Core\bin\Debug\SIL.Core.pdb
+C:\Projects\SoftwareInformationLibrary\SIL.Core\obj\Debug\SIL.Core.csprojResolveAssemblyReference.cache
+C:\Projects\SoftwareInformationLibrary\SIL.Core\obj\Debug\SIL.Core.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Core\obj\Debug\SIL.Core.pdb

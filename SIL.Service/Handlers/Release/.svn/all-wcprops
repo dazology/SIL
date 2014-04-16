@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Development/!svn/ver/4879/PSU/SIL/SIL.Service/Handlers/Release
+END
+DeleteReleaseHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Development/!svn/ver/4897/PSU/SIL/SIL.Service/Handlers/Release/DeleteReleaseHandler.cs
+END
+CreateOrUpdateReleaseHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Development/!svn/ver/4897/PSU/SIL/SIL.Service/Handlers/Release/CreateOrUpdateReleaseHandler.cs
+END

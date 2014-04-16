@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/Commands/Server
+END
+CreateOrUpdateSeverCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Service/Commands/Server/CreateOrUpdateSeverCommand.cs
+END
+DeleteServerCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/Commands/Server/DeleteServerCommand.cs
+END

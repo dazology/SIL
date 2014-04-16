@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Tests/FakesForTesting
+END
+WebsiteFakeDbSet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Tests/FakesForTesting/WebsiteFakeDbSet.cs
+END
+FakeWebsiteContext.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Tests/FakesForTesting/FakeWebsiteContext.cs
+END
+FakeDbSet.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Tests/FakesForTesting/FakeDbSet.cs
+END

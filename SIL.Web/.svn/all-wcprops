@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web
+END
+Global.asax.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/Global.asax.cs
+END
+Web.Release.config
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/Web.Release.config
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/Web.config
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/packages.config
+END
+SIL.Web.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/SIL.Web.csproj
+END
+Web.Debug.config
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/Web.Debug.config
+END
+Bootstrapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/Bootstrapper.cs
+END
+Global.asax
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/Global.asax
+END
+GlimpseSecurityPolicy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/GlimpseSecurityPolicy.cs
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/favicon.ico
+END
+Copy of favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/Copy%20of%20favicon.ico
+END

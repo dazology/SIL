@@ -1,0 +1,76 @@
+﻿@model SIL.Web.ViewModels.ContactViewModel
+@using SIL.Web.Helpers
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="pull-left">Create</h1>
+
+
+
+<div id="leftPane">
+	<nav class="subMenu">
+	<h3>Actions</h3>
+	</nav>
+</div>
+<div id="rightPane">
+
+@using (Html.BeginForm("Save", "Contact")) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Contact</legend>
+
+
+        <span class="editor-label">
+            @Html.LabelFor(model => model.Name)
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.EmailAddress)
+            @Html.EditorFor(model => model.EmailAddress)
+            @Html.ValidationMessageFor(model => model.EmailAddress)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.IsPrimary)
+            @Html.EditorFor(model => model.IsPrimary)
+            @Html.ValidationMessageFor(model => model.IsPrimary)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.IsSecondary)
+            @Html.EditorFor(model => model.IsSecondary)
+            @Html.ValidationMessageFor(model => model.IsSecondary)
+         </span>
+                <span>
+               @Html.Label("Contacts")
+            @Html.DropDownListFor(model => model.CustomerId, Model.Customers, "--Select--")
+
+        </span>
+        
+         <span>
+            @Html.Label("Contact Type")
+       @*@Html.DropDownListFor(model => model.Type,"--Select--")*@
+                  @Html.DropDownListFor(model => model.Type, Model.Type.ToSelectList(addPleaseSelect:true))
+                  
+        </span>
+
+
+        <span>
+            <input type="submit" value="Create" class="btn green pull-right" />
+        </span>
+    </fieldset>
+}
+    <div>
+               @Html.ActionLink("Back to List", "Index", null, new { @class = "btn red pull-left" })
+    </div>
+ 
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+         </div>

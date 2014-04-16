@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.CommadProcessor
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.CommadProcessor/packages.config
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.CommadProcessor/App.config
+END
+SIL.CommadProcessor.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Development/!svn/ver/4879/PSU/SIL/SIL.CommadProcessor/SIL.CommadProcessor.csproj
+END
+GlimpseSecurityPolicy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.CommadProcessor/GlimpseSecurityPolicy.cs
+END

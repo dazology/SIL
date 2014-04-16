@@ -1,0 +1,91 @@
+﻿@model SIL.Web.ViewModels.WebsiteViewModel
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>WebsiteViewModel</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.WebsiteId)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.WebsiteId)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.CustomerId)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.CustomerId)
+    </div>
+
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.DatabaseName)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DatabaseName)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Version)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Version)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.SiteName)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.SiteName)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.URL)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.URL)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.IsActive)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IsActive)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.PSUOwned)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.PSUOwned)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Comments)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Comments)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Pingdom)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Pingdom)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id=Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+<div>
+    @Html.Partial("_WebsiteIframe")
+</div>

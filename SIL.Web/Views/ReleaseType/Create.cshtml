@@ -1,0 +1,42 @@
+﻿@model SIL.Web.ViewModels.ReleaseTypeViewModel
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="pull-left">Create</h1>
+
+
+<div id="leftPane">
+	<nav class="subMenu">
+	<h3>Actions</h3>
+	</nav>
+</div>
+<div id="rightPane">
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Release Type</legend>
+
+        <span class="editor-label">
+            @Html.LabelFor(model => model.Name)
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name)
+        </span>
+
+        <span>
+            <input type="submit" value="Create"  class="btn green pull-right"/>
+        </span>
+    </fieldset>
+}
+
+       @Html.ActionLink("Back to List", "Index", null,   new  { @class = "btn red pull-left" })
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+</div>

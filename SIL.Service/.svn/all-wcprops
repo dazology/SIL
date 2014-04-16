@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/packages.config
+END
+SIL.Service.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/SIL.Service.csproj
+END
+GlimpseSecurityPolicy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/GlimpseSecurityPolicy.cs
+END

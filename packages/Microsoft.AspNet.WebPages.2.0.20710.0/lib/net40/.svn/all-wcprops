@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/Microsoft.AspNet.WebPages.2.0.20710.0/lib/net40
+END
+System.Web.Helpers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/Microsoft.AspNet.WebPages.2.0.20710.0/lib/net40/System.Web.Helpers.xml
+END
+System.Web.WebPages.Razor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/Microsoft.AspNet.WebPages.2.0.20710.0/lib/net40/System.Web.WebPages.Razor.xml
+END
+System.Web.WebPages.Deployment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/Microsoft.AspNet.WebPages.2.0.20710.0/lib/net40/System.Web.WebPages.Deployment.xml
+END
+System.Web.WebPages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/Microsoft.AspNet.WebPages.2.0.20710.0/lib/net40/System.Web.WebPages.xml
+END

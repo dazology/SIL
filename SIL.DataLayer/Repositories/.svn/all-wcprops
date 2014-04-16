@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/Repositories
+END
+ContactRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/Repositories/ContactRepository.cs
+END
+CustomChecksRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/Repositories/CustomChecksRepository.cs
+END
+UserRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/Repositories/UserRepository.cs
+END
+ReleaseRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/Repositories/ReleaseRepository.cs
+END
+ReleaseTypeRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/Repositories/ReleaseTypeRepository.cs
+END
+WebsiteRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/Repositories/WebsiteRepository.cs
+END
+CompanyRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/Repositories/CompanyRepository.cs
+END
+ServerRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/Repositories/ServerRepository.cs
+END
+IpRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/Repositories/IpRepository.cs
+END
+ChecklistRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/Repositories/ChecklistRepository.cs
+END

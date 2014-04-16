@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/Views/Shared
+END
+Error.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/Views/Shared/Error.cshtml
+END
+_Layout.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/Views/Shared/_Layout.cshtml
+END
+_LoginPartial.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/Views/Shared/_LoginPartial.cshtml
+END

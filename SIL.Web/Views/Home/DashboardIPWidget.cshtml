@@ -1,0 +1,57 @@
+﻿@model IEnumerable<SIL.Domain.IP>
+<div class="dashboardItem">
+    <div class="dashboardItemHeader">IPs</div>
+    <div class="dashboardItemBody">
+        <table class="tbl">
+            <thead>
+                <tr>
+        <th>
+            @Html.DisplayName("Ext IP")
+        </th>
+        <th>
+                  @Html.DisplayName("Int IP")
+        </th>
+        <th>
+                   @Html.DisplayName("IIS IP")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Location)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Comments)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SSL)
+        </th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                                <td>
+            @Html.DisplayFor(modelItem => item.ExternalIPAddress)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InternalIPAddress)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IISIPAddress)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Location)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Comments)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SSL)
+        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>

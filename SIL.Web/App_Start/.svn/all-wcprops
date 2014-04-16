@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/App_Start
+END
+FilterConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/App_Start/FilterConfig.cs
+END
+WebApiConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/App_Start/WebApiConfig.cs
+END
+BundleConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/App_Start/BundleConfig.cs
+END
+RouteConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/App_Start/RouteConfig.cs
+END
+AuthConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/App_Start/AuthConfig.cs
+END

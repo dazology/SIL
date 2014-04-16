@@ -1,0 +1,4 @@
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.Core\bin\Release\SIL.Core.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.Core\bin\Release\SIL.Core.pdb
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.Core\obj\Release\SIL.Core.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.Core\obj\Release\SIL.Core.pdb

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/Migrations
+END
+ConfigurationExecution.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.DataLayer/Migrations/ConfigurationExecution.cs
+END
+201403191215278_Init.resx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Development/!svn/ver/4897/PSU/SIL/SIL.DataLayer/Migrations/201403191215278_Init.resx
+END
+201403191215278_Init.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Development/!svn/ver/4897/PSU/SIL/SIL.DataLayer/Migrations/201403191215278_Init.Designer.cs
+END
+201403191215278_Init.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Development/!svn/ver/4897/PSU/SIL/SIL.DataLayer/Migrations/201403191215278_Init.cs
+END
+Configuration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.DataLayer/Migrations/Configuration.cs
+END
+DbInitialize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.DataLayer/Migrations/DbInitialize.cs
+END

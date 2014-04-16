@@ -1,0 +1,113 @@
+﻿@model SIL.Web.ViewModels.WebsiteViewModel
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm("Save", "Website"))
+{
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Website</legend>
+
+        @Html.HiddenFor(model => model.WebsiteId)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.DatabaseName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.DatabaseName)
+            @Html.ValidationMessageFor(model => model.DatabaseName)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Version)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Version)
+            @Html.ValidationMessageFor(model => model.Version)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.SiteName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.SiteName)
+            @Html.ValidationMessageFor(model => model.SiteName)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.URL)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.URL)
+            @Html.ValidationMessageFor(model => model.URL)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.IsActive)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.IsActive)
+            @Html.ValidationMessageFor(model => model.IsActive)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.PSUOwned)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.PSUOwned)
+            @Html.ValidationMessageFor(model => model.PSUOwned)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Comments)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Comments)
+            @Html.ValidationMessageFor(model => model.Comments)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Pingdom)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Pingdom)
+            @Html.ValidationMessageFor(model => model.Pingdom)
+        </div>
+        <div class="editor-field">
+            
+
+            @Html.DropDownListFor(model => model.CustomerId , Model.Customer,"--Select--")
+
+        </div>
+                <div class="editor-field">
+            
+
+            @Html.DropDownListFor(model => model.ServerId , Model.Servers,"--Select--")
+
+        </div>
+                <div class="editor-field">
+            
+
+            @Html.DropDownListFor(model => model.IpId , Model.Ips,"--Select--")
+
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

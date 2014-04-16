@@ -1,0 +1,58 @@
+﻿@model SIL.Web.ViewModels.ReleaseViewModel
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>ReleaseViewModel</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ReleaseId)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ReleaseId)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.LiveDate)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.LiveDate)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.StagingDate)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.StagingDate)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Notes)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Notes)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Status)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Status)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.WebsiteId)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.WebsiteId)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id=Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index", null,   new  { @class = "btn red pull-left" })
+</p>

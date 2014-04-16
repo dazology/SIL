@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/ViewModels
+END
+WebsiteViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/ViewModels/WebsiteViewModel.cs
+END
+ServerViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/ViewModels/ServerViewModel.cs
+END
+CompanyViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/ViewModels/CompanyViewModel.cs
+END
+IpViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/ViewModels/IpViewModel.cs
+END
+CustomCheckViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/ViewModels/CustomCheckViewModel.cs
+END
+ChangePasswordViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/ViewModels/ChangePasswordViewModel.cs
+END
+ChecklistViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/ViewModels/ChecklistViewModel.cs
+END
+UserViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/ViewModels/UserViewModel.cs
+END
+LogOnViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/ViewModels/LogOnViewModel.cs
+END
+WebsiteGroupViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/ViewModels/WebsiteGroupViewModel.cs
+END
+ReleaseViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/ViewModels/ReleaseViewModel.cs
+END
+ReleaseTypeViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/ViewModels/ReleaseTypeViewModel.cs
+END
+DashboardWebViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Development/!svn/ver/4897/PSU/SIL/SIL.Web/ViewModels/DashboardWebViewModel.cs
+END
+DashboardReleaseViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Development/!svn/ver/4897/PSU/SIL/SIL.Web/ViewModels/DashboardReleaseViewModel.cs
+END
+WebsiteServerViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/ViewModels/WebsiteServerViewModel.cs
+END
+ContactViewModel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/ViewModels/ContactViewModel.cs
+END

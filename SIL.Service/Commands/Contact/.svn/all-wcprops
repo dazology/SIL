@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/Commands/Contact
+END
+DeleteContactCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/Commands/Contact/DeleteContactCommand.cs
+END
+CreateOrUpdateContactCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/Commands/Contact/CreateOrUpdateContactCommand.cs
+END

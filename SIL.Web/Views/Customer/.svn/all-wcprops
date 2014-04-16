@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/Views/Customer
+END
+Index.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/Views/Customer/Index.cshtml
+END
+CustomerInfo.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/Views/Customer/CustomerInfo.cshtml
+END
+Delete.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/Views/Customer/Delete.cshtml
+END
+Create.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/Views/Customer/Create.cshtml
+END
+Details.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/Views/Customer/Details.cshtml
+END
+Edit.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/Views/Customer/Edit.cshtml
+END

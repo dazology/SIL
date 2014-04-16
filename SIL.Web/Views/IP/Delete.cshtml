@@ -1,0 +1,52 @@
+﻿@model IEnumerable<SIL.Domain.IP>
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.IpId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IPAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Comments)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SSL)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.IpId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IPAddress)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Comments)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SSL)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.IpId  }) |
+            @Html.ActionLink("Details", "Details", new { id = item.IpId  }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.IpId  })
+        </td>
+    </tr>
+}
+
+</table>

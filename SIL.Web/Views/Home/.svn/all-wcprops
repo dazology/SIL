@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/Views/Home
+END
+Index.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Web/Views/Home/Index.cshtml
+END
+DashboardContactWidget.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Development/!svn/ver/4897/PSU/SIL/SIL.Web/Views/Home/DashboardContactWidget.cshtml
+END
+DashboardWebWidget.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Development/!svn/ver/4897/PSU/SIL/SIL.Web/Views/Home/DashboardWebWidget.cshtml
+END
+About.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/Views/Home/About.cshtml
+END
+Contact.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/Views/Home/Contact.cshtml
+END
+WebsiteAdmin.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web/Views/Home/WebsiteAdmin.cshtml
+END
+DashboardReleaseWidget.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Development/!svn/ver/4897/PSU/SIL/SIL.Web/Views/Home/DashboardReleaseWidget.cshtml
+END
+DashboardWebsiteWidget.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Development/!svn/ver/4897/PSU/SIL/SIL.Web/Views/Home/DashboardWebsiteWidget.cshtml
+END
+DashboardIPWidget.cshtml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Development/!svn/ver/4897/PSU/SIL/SIL.Web/Views/Home/DashboardIPWidget.cshtml
+END

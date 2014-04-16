@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/EntityFramework.5.0.0/tools
+END
+EntityFramework.psd1
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/EntityFramework.5.0.0/tools/EntityFramework.psd1
+END
+EntityFramework.PS3.psd1
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/EntityFramework.5.0.0/tools/EntityFramework.PS3.psd1
+END
+Redirect.config
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/EntityFramework.5.0.0/tools/Redirect.config
+END
+init.ps1
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/EntityFramework.5.0.0/tools/init.ps1
+END
+install.ps1
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/EntityFramework.5.0.0/tools/install.ps1
+END
+EntityFramework.psm1
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/EntityFramework.5.0.0/tools/EntityFramework.psm1
+END
+about_EntityFramework.help.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/EntityFramework.5.0.0/tools/about_EntityFramework.help.txt
+END
+Redirect.VS11.config
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/EntityFramework.5.0.0/tools/Redirect.VS11.config
+END

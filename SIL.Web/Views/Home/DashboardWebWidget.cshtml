@@ -1,0 +1,56 @@
+﻿@model IEnumerable<SIL.Web.ViewModels.DashboardWebViewModel>
+<div class="dashboardItem">
+    <div class="dashboardItemHeader">Websites</div>
+    <div class="dashboardItemBody">
+        <table class="tbl">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayName("Website")
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.URL)
+                    </th>
+                    <th>
+                        @Html.DisplayName("Contact")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Customer")
+                    </th>
+                    <th>
+                        @Html.DisplayName("IP")
+                    </th>
+                    <th>
+                        @Html.DisplayName("Tel")
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.WebsiteName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.URL)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ContactName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CustomerName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.IPAddress)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TelNo)
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>

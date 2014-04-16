@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/Handlers/Security
+END
+UserRegisterHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/Handlers/Security/UserRegisterHandler.cs
+END
+AddUserHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/Handlers/Security/AddUserHandler.cs
+END
+ChangePasswordHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/Handlers/Security/ChangePasswordHandler.cs
+END
+UserChangePassword.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/Handlers/Security/UserChangePassword.cs
+END

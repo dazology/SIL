@@ -1,0 +1,63 @@
+﻿@model SIL.Web.ViewModels.UserViewModel
+
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Create a New Account</h1>
+
+
+@using (Html.BeginForm((string)ViewBag.FormAction, "Account")) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Account Information</legend>
+		
+		<p>Use the form below to create a new account.</p>
+		<p>Passwords are required to be a minimum of 6 characters in length.</p>
+		<br/>
+		
+        <span>
+            @Html.LabelFor(model => model.FirstName)
+            @Html.EditorFor(model => model.FirstName)
+            @Html.ValidationMessageFor(model => model.FirstName)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.LastName)
+            @Html.EditorFor(model => model.LastName)
+            @Html.ValidationMessageFor(model => model.LastName)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.Email)
+            @Html.EditorFor(model => model.Email)
+            @Html.ValidationMessageFor(model => model.Email)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.Password)
+            @Html.EditorFor(model => model.Password)
+            @Html.ValidationMessageFor(model => model.Password)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.ConfirmPassword)
+            @Html.EditorFor(model => model.ConfirmPassword)
+            @Html.ValidationMessageFor(model => model.ConfirmPassword)
+        </span>
+
+        <span>
+            <input type="submit" value="Register" class="btn green pull-right" />
+        </span>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back", "Login", null,   new  { @class = "btn red pull-left" })
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,107 @@
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\SIL.CommadProcessor.dll.config
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\SIL.CommadProcessor.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\SIL.CommadProcessor.pdb
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\Autofac.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\Autofac.Integration.WebApi.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\EntityFramework.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\Glimpse.Ado.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\Glimpse.AspNet.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\Glimpse.Core.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\Glimpse.EF5.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\Glimpse.Mvc4.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\Newtonsoft.Json.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\System.Web.Helpers.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\System.Web.Mvc.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\System.Web.Razor.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\System.Web.WebPages.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\System.Web.Http.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\Autofac.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\Autofac.Integration.WebApi.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\EntityFramework.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\Newtonsoft.Json.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\System.Web.Helpers.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\System.Web.Mvc.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\System.Web.Razor.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\System.Web.WebPages.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\bin\Release\System.Web.Http.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\obj\Release\SIL.CommadProcessor.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\SIL.CommadProcessor\obj\Release\SIL.CommadProcessor.pdb
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\SIL.CommadProcessor.dll.config
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\SIL.CommadProcessor.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\SIL.CommadProcessor.pdb
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\Autofac.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\Autofac.Integration.WebApi.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\EntityFramework.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\Glimpse.Ado.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\Glimpse.AspNet.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\Glimpse.Core.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\Glimpse.EF5.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\Glimpse.Mvc4.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\Newtonsoft.Json.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\System.Net.Http.Formatting.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\System.Web.Helpers.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\System.Web.Mvc.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\System.Web.Razor.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\System.Web.WebPages.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\System.Web.WebPages.Razor.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\System.Web.Http.dll
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\Autofac.xml
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\Autofac.Integration.WebApi.xml
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\EntityFramework.xml
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\Newtonsoft.Json.xml
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\System.Net.Http.Formatting.xml
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\System.Web.Helpers.xml
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\System.Web.Mvc.xml
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\System.Web.Razor.xml
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\System.Web.WebPages.xml
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\System.Web.WebPages.Razor.xml
+C:\Projects\SIL\SIL.CommadProcessor\bin\Release\System.Web.Http.xml
+C:\Projects\SIL\SIL.CommadProcessor\obj\Release\SIL.CommadProcessor.csprojResolveAssemblyReference.cache
+C:\Projects\SIL\SIL.CommadProcessor\obj\Release\SIL.CommadProcessor.dll
+C:\Projects\SIL\SIL.CommadProcessor\obj\Release\SIL.CommadProcessor.pdb
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\SIL.CommadProcessor.dll.config
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\SIL.CommadProcessor.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\SIL.CommadProcessor.pdb
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\Autofac.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\Autofac.Integration.WebApi.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\EntityFramework.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\Glimpse.Ado.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\Glimpse.AspNet.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\Glimpse.Core.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\Glimpse.EF5.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\Glimpse.Mvc4.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\Newtonsoft.Json.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\System.Net.Http.Formatting.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\System.Web.Helpers.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\System.Web.Mvc.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\System.Web.Razor.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\System.Web.WebPages.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\System.Web.WebPages.Razor.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\System.Web.Http.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\Autofac.xml
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\Autofac.Integration.WebApi.xml
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\EntityFramework.xml
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\Newtonsoft.Json.xml
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\System.Net.Http.Formatting.xml
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\System.Web.Helpers.xml
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\System.Web.Mvc.xml
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\System.Web.Razor.xml
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\System.Web.WebPages.xml
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\System.Web.WebPages.Razor.xml
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\bin\Release\System.Web.Http.xml
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\obj\Release\SIL.CommadProcessor.csprojResolveAssemblyReference.cache
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\obj\Release\SIL.CommadProcessor.dll
+C:\Projects\SoftwareInformationLibrary\SIL.CommadProcessor\obj\Release\SIL.CommadProcessor.pdb

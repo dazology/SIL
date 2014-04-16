@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/Commands/Security
+END
+UserRegisterCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/Commands/Security/UserRegisterCommand.cs
+END
+ChangePasswordCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/Commands/Security/ChangePasswordCommand.cs
+END

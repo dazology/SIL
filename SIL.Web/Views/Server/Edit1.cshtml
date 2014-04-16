@@ -1,0 +1,60 @@
+﻿@model SIL.Web.ViewModels.ServerViewModel
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<div id="leftPane">
+	<nav class="subMenu">
+	<h3>Actions</h3>
+	</nav>
+</div>
+<div id="rightPane">
+
+
+@using (Html.BeginForm("Save", "Server"))
+{
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Server</legend>
+
+        <span class="editor-label">
+                     @Html.Label("Host Name")
+            @Html.EditorFor(model => model.HostName)
+            @Html.ValidationMessageFor(model => model.HostName)
+        </span>
+
+
+        <span>
+                       @Html.Label("Friendly Name")
+            @Html.EditorFor(model => model.FriendlyName)
+            @Html.ValidationMessageFor(model => model.FriendlyName)
+        </span>
+        <span>
+                  @Html.Label("IIS Version")
+            @Html.EditorFor(model => model.IISVersionNo)
+            @Html.ValidationMessageFor(model => model.IISVersionNo)
+        </span>
+        <span>
+          @Html.Label("Description")
+
+
+            @Html.EditorFor(model => model.Description)
+            @Html.ValidationMessageFor(model => model.Description)
+        </span>
+
+             <span>
+            <input type="submit" value="Create" class="btn green pull-right" />
+        </span>
+    </fieldset>
+}
+
+       @Html.ActionLink("Back to List", "Index", null, new { @class = "btn red pull-left" })
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

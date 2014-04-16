@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/Commands/Ip
+END
+CreateOrUpdateIpCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Service/Commands/Ip/CreateOrUpdateIpCommand.cs
+END
+DeleteIpCommand.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Service/Commands/Ip/DeleteIpCommand.cs
+END

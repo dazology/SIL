@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/Glimpse.Ado.1.4.1/tools
+END
+install.ps1
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/Glimpse.Ado.1.4.1/tools/install.ps1
+END
+uninstall.ps1
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/Glimpse.Ado.1.4.1/tools/uninstall.ps1
+END

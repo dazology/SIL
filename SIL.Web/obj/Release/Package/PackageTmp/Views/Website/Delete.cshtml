@@ -1,0 +1,87 @@
+﻿@model IEnumerable<SIL.Domain.Website>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+
+        <th>
+            @Html.DisplayNameFor(model => model.SiteName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.URL)
+        </th>
+@*        <th>
+            @Html.DisplayNameFor(model => model.IPAddress)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.DatabaseName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Version)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsActive)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PSUOwned)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pingdom)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+           
+            <td>
+                @Html.DisplayFor(modelItem => item.SiteName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.URL)
+            </td>
+             <td>
+                @*@Html.DisplayFor(modelItem => item.IPAddress)*@
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DatabaseName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Version)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsActive)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PSUOwned)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pingdom)
+            </td>
+         
+
+
+            <td>
+                @Html.ActionLink("Customer", "CustomerInfo", "Customer", new { id = item.CustomerId }, null) |
+            </td>
+
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.WebsiteId }) |
+            @Html.ActionLink("Details", "Details", new { id = item.WebsiteId }) |
+                  @Html.ActionLink("Delete", "Delete", new { id = item.WebsiteId },null)
+
+            </td>
+        </tr>
+    }
+
+</table>

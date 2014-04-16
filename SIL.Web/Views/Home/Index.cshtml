@@ -1,0 +1,37 @@
+﻿@model IEnumerable<SIL.Web.ViewModels.WebsiteServerViewModel>
+
+@{
+    ViewBag.Title = "Dashboard";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Dashboard</h1>
+
+<div class="dashboard">
+    <div class="dashboard3Col">
+        <div class="dashboardCol">
+                      @{ Html.RenderAction("DashboardWebWidget"); }
+    
+                   
+        </div>
+        <div class="dashboardCol">
+
+       @{ Html.RenderAction("DashboardIPWidget"); }
+    
+        </div>
+        <div class="dashboardCol">
+
+     @{ Html.RenderAction("DashboardContactWidget"); }
+    
+        </div>
+
+                <div class="dashboardCol">
+
+     @{ Html.RenderAction("DashboardReleaseWidget"); }
+    
+        </div>
+
+        <div class="dashboardFooter"></div>
+    </div>
+    <div class="fix"></div>
+</div>

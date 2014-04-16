@@ -1,0 +1,73 @@
+﻿@model IEnumerable<SIL.Domain.Contact>
+
+<div class="dashboardItem">
+    <div class="dashboardItemHeader">Contacts</div>
+    <div class="dashboardItemBody">
+        <table id="myDataTable" class="tbl">
+            <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+                @Html.DisplayName("Email")
+        </th>
+        <th>
+               @Html.DisplayName("Tel")
+        </th>
+        <th>
+                  @Html.DisplayName("Title")
+        </th>
+                </tr>
+            </thead>
+            <tbody>
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EmailAddress)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TelNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.JobTitle)
+        </td>
+    </tr>
+}
+
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/modernizr")
+
+<script >
+    $().ready(function () {
+        $('.datepicker').datepicker({
+            dateFormat: 'dd/mm/yy',
+            buttonImage: '@Url.Content("~/Images/calendar.gif")',
+                buttonImageOnly: true,
+                showOn: "button"
+        });
+
+        
+            $('#myTable').dataTable({
+                "bServerSide": true,
+                "sAjaxSource": "Home/DashboardContactWidget",
+                "bProcessing": true,
+                "aoColumns": [
+                          { "sName": "CustomerId" },
+                          { "sName": "Name" },
+                          { "sName": "EmailAddress" },
+                          { "sName": "TelNo" }
+                ]
+            });
+        });
+</script>
+
+}

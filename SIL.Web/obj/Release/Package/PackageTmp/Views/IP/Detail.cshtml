@@ -1,0 +1,37 @@
+﻿@model SIL.Web.ViewModels.IpViewModel
+
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detail</h2>
+
+<fieldset>
+    <legend>IpViewModel</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.IPAddress)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IPAddress)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Comments)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Comments)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.SSL)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.SSL)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id=Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index", null,   new  { @class = "btn red pull-left" })
+</p>

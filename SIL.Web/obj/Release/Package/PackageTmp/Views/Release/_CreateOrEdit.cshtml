@@ -1,0 +1,85 @@
+﻿@model SIL.Web.ViewModels.ReleaseViewModel
+@using SIL.Web.Helpers
+
+<script src="~/Scripts/jquery-1.7.1.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+@using (Html.BeginForm("Create", "Release"))
+{
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Release</legend>
+
+        <span>
+            @Html.Label("Website")
+            @Html.DropDownListFor(model => model.WebsiteId , Model.Websites,"--Select--")
+            @Html.ValidationMessageFor(model => model.WebsiteId)
+        </span>
+
+        
+        <span>
+            @Html.Label("Type Of Release")
+             @Html.DropDownListFor(model => model.ReleaseTypeId , Model.RType,"--Select--")    
+       </span>
+
+        <span>
+            @Html.Label("Dev Release Date")
+            @Html.TextBoxFor(model => model.DevDate, new{@class = "datepicker"})
+            @Html.ValidationMessageFor(model => model.StagingDate)
+        </span>
+
+        <span>
+            @Html.Label("Staging Release Date")
+                 @Html.TextBoxFor(model => model.StagingDate, new{@class = "datepicker"})
+
+            @Html.ValidationMessageFor(model => model.DevDate)
+        </span>
+
+
+        <span>
+            @Html.Label("Live Release Date")
+                       @Html.TextBoxFor(model => model.LiveDate, new{@class = "datepicker"})
+
+            @Html.ValidationMessageFor(model => model.LiveDate)
+               </span>
+
+        <span>
+            @Html.LabelFor(model => model.Notes)
+            @Html.EditorFor(model => model.Notes)
+            @Html.ValidationMessageFor(model => model.Notes)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.Status)
+         @Html.DropDownListFor(model => model.Statuses, Model.Statuses.ToSelectList(addPleaseSelect: true))
+       </span>
+
+   <input type="submit" value="Create" class="btn green pull-right" />
+    </fieldset>
+    
+    
+}
+<div>
+       @Html.ActionLink("Back to List", "Index", null,   new  { @class = "btn red pull-left" })
+
+</div>
+
+@section Scripts {
+
+    @Scripts.Render("~/bundles/jqueryval")
+
+
+<script >
+    $().ready(function () {
+        $('.datepicker').datepicker({
+            dateFormat: 'yy-mm-dd',
+            $(".maskTime").mask("99:99");
+            buttonImage: '@Url.Content("~/Images/calendar.gif")',
+                buttonImageOnly: true,
+                showOn: "button"
+            });
+        });
+</script>
+    }

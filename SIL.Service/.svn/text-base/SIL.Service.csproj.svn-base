@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6FBBE85A-9357-4EA9-81D7-5A5938923308}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SIL.Service</RootNamespace>
+    <AssemblyName>SIL.Service</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Autofac">
+      <HintPath>..\packages\Autofac.3.1.1\lib\net40\Autofac.dll</HintPath>
+    </Reference>
+    <Reference Include="Autofac.Integration.WebApi">
+      <HintPath>..\packages\Autofac.WebApi.3.1.0\lib\net40\Autofac.Integration.WebApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Glimpse.Ado">
+      <HintPath>..\packages\Glimpse.Ado.1.4.1\lib\net45\Glimpse.Ado.dll</HintPath>
+    </Reference>
+    <Reference Include="Glimpse.AspNet">
+      <HintPath>..\packages\Glimpse.AspNet.1.3.1\lib\net45\Glimpse.AspNet.dll</HintPath>
+    </Reference>
+    <Reference Include="Glimpse.Core">
+      <HintPath>..\packages\Glimpse.1.4.2\lib\net45\Glimpse.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Glimpse.EF5">
+      <HintPath>..\packages\Glimpse.EF5.1.4.0\lib\net45\Glimpse.EF5.dll</HintPath>
+    </Reference>
+    <Reference Include="Glimpse.Mvc4">
+      <HintPath>..\packages\Glimpse.Mvc4.1.3.3\lib\net40\Glimpse.Mvc4.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Commands\Checklist\CreateOrUpdateChecklistCommand.cs" />
+    <Compile Include="Commands\Company\CreateOrUpdateCompanyCommand.cs" />
+    <Compile Include="Commands\Company\DeleteCustomerCommand.cs" />
+    <Compile Include="Commands\Contact\CreateOrUpdateContactCommand.cs" />
+    <Compile Include="Commands\Contact\DeleteContactCommand.cs" />
+    <Compile Include="Commands\CustomCheck\CreateOrUpdateCustomCheckCommand.cs" />
+    <Compile Include="Commands\Ip\CreateOrUpdateIpCommand.cs" />
+    <Compile Include="Commands\Ip\DeleteIpCommand.cs" />
+    <Compile Include="Commands\ReleaseType\CreateOrUpdateReleaseTypeCommand.cs" />
+    <Compile Include="Commands\Release\CreateOrUpdateReleaseCommand.cs" />
+    <Compile Include="Commands\Release\DeleteReleaseCommand.cs" />
+    <Compile Include="Commands\Release\MaxLength.cs" />
+    <Compile Include="Commands\Security\ChangePasswordCommand.cs" />
+    <Compile Include="Commands\Security\UserRegisterCommand.cs" />
+    <Compile Include="Commands\Server\CreateOrUpdateSeverCommand.cs" />
+    <Compile Include="Commands\Server\DeleteServerCommand.cs" />
+    <Compile Include="Commands\Website\CreateOrUpdateWebsiteCommand.cs" />
+    <Compile Include="Commands\Website\DeleteWebsiteCommand.cs" />
+    <Compile Include="GlimpseSecurityPolicy.cs" />
+    <Compile Include="Handlers\Checklist\CreateOrUpdateChecklistHandler.cs" />
+    <Compile Include="Handlers\Company\CreateOrUpdateCompanyHandler.cs" />
+    <Compile Include="Handlers\Company\DeleteCustomerHandler.cs" />
+    <Compile Include="Handlers\Contact\CreateOrUpdateContactHandler.cs" />
+    <Compile Include="Handlers\Contact\DeleteContactHandler.cs" />
+    <Compile Include="Handlers\CustomChecks\CreateOrUpdateCustomCheckHandler.cs" />
+    <Compile Include="Handlers\Ip\CreateOrUpdateIpHandler.cs" />
+    <Compile Include="Handlers\Ip\DeleteIpHandler.cs" />
+    <Compile Include="Handlers\ReleaseType\CreateOrUpdateReleaseTypeHandler.cs" />
+    <Compile Include="Handlers\Release\CreateOrUpdateReleaseHandler.cs" />
+    <Compile Include="Handlers\Release\DeleteReleaseHandler.cs" />
+    <Compile Include="Handlers\Security\AddUserHandler.cs" />
+    <Compile Include="Handlers\Security\ChangePasswordHandler.cs" />
+    <Compile Include="Handlers\Security\UserChangePassword.cs" />
+    <Compile Include="Handlers\Security\UserRegisterHandler.cs" />
+    <Compile Include="Handlers\Server\CreateOrUpdateServerHandler.cs" />
+    <Compile Include="Handlers\Server\DeleteServerHandler.cs" />
+    <Compile Include="Handlers\Website\CreateOrUpdateWebsiteHandler.cs" />
+    <Compile Include="Handlers\Website\DeleteWebsiteHandler.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SIL.CommadProcessor\SIL.CommadProcessor.csproj">
+      <Project>{9f852ba9-e447-42f4-8520-72a5f0c02a24}</Project>
+      <Name>SIL.CommadProcessor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SIL.Core\SIL.Core.csproj">
+      <Project>{c1116ba6-e4d6-49f6-98c3-00754ee96720}</Project>
+      <Name>SIL.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SIL.DataLayer\SIL.DataLayer.csproj">
+      <Project>{4574d008-66a9-415b-812d-001bc1090116}</Project>
+      <Name>SIL.DataLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SIL.Domain\SIL.Domain.csproj">
+      <Project>{0db78ca6-4589-4c7b-91ff-f888440cf452}</Project>
+      <Name>SIL.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

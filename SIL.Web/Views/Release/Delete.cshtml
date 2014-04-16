@@ -1,0 +1,54 @@
+﻿@model IEnumerable<SIL.Domain.Release>
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>ReleaseViewModel</legend>
+    
+@*    <div class="display-label">
+         @Html.DisplayNameFor(model => model.)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ReleaseDescription)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ReleaseDate)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ReleaseDate)
+    </div>*@
+
+@*    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Notes)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Notes)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ReleaseStatus)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ReleaseStatus)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.WebsiteId)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.WebsiteId)
+    </div>*@
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Delete" /> |
+    @Html.ActionLink("Back to List", "Index", null,   new  { @class = "btn red pull-left" })
+    </p>
+}

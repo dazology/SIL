@@ -1,0 +1,55 @@
+﻿@model IEnumerable<SIL.Web.ViewModels.DashboardReleaseViewModel>
+
+<div class="dashboardItem">
+    <div class="dashboardItemHeader">Releases
+    </div>
+    <div class="dashboardItemBody">
+        <table class="tbl">
+            <thead>
+    <tr>
+        <th>
+            @Html.DisplayName("KO")
+        </th>
+        <th>
+              @Html.DisplayName("Website")
+        </th>
+        <th>
+                 @Html.DisplayName("Unit Of Work")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Dev)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Staging)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Live)
+        </th>
+    </tr>
+            </thead>
+            <tbody>
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.WebsiteName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UnitOfWork)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Dev)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Staging)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Live)
+        </td>
+    </tr>
+}
+        </table>
+    </div>
+</div>

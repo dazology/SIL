@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain
+END
+ChecklistType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain/ChecklistType.cs
+END
+packages.config
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain/packages.config
+END
+User.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain/User.cs
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain/App.config
+END
+Release.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Domain/Release.cs
+END
+WebsiteReference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain/WebsiteReference.cs
+END
+ReleaseType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain/ReleaseType.cs
+END
+SIL.Domain.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain/SIL.Domain.csproj
+END
+Contact.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain/Contact.cs
+END
+ReleaseInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Domain/ReleaseInfo.cs
+END
+ChecklistQuestion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain/ChecklistQuestion.cs
+END
+Customer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain/Customer.cs
+END
+ReleaseHistory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain/ReleaseHistory.cs
+END
+Website.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain/Website.cs
+END
+CustomChecklist.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain/CustomChecklist.cs
+END
+IDescribableEntity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain/IDescribableEntity.cs
+END
+Server.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Domain/Server.cs
+END
+IP.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Development/!svn/ver/4890/PSU/SIL/SIL.Domain/IP.cs
+END
+GlimpseSecurityPolicy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain/GlimpseSecurityPolicy.cs
+END
+AuditLog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain/AuditLog.cs
+END
+Checklist.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Domain/Checklist.cs
+END

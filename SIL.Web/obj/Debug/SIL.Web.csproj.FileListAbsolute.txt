@@ -1,0 +1,224 @@
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\SIL.Web.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\SIL.Web.pdb
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Antlr3.Runtime.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Autofac.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Autofac.Integration.Mvc.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Autofac.Integration.WebApi.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\AutoMapper.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\AutoMapper.Net4.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.Core.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\EntityFramework.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Glimpse.Ado.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Glimpse.AspNet.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Glimpse.Core.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Glimpse.EF5.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Glimpse.Mvc4.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Newtonsoft.Json.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\SIL.CommadProcessor.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\SIL.DataLayer.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\SIL.Domain.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\SIL.Service.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Helpers.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Http.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Optimization.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Razor.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\WebGrease.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\WebMatrix.Data.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\WebMatrix.WebData.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\SIL.Core.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\SIL.CommadProcessor.pdb
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\SIL.DataLayer.pdb
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\SIL.Domain.pdb
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\SIL.Service.pdb
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Autofac.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Autofac.Integration.Mvc.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Autofac.Integration.WebApi.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\AutoMapper.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\EntityFramework.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Newtonsoft.Json.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Helpers.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Http.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.Razor.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\WebMatrix.Data.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\WebMatrix.WebData.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.Core.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\bin\SIL.Core.pdb
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\obj\Debug\SIL.Web.csprojResolveAssemblyReference.cache
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\obj\Debug\SIL.Web.dll
+C:\Users\darren.byron\Documents\Visual Studio 2012\Projects\MvcApplication1\MvcApplication1\obj\Debug\SIL.Web.pdb
+C:\Projects\SIL\SIL.Web\bin\SIL.Web.dll
+C:\Projects\SIL\SIL.Web\bin\SIL.Web.pdb
+C:\Projects\SIL\SIL.Web\bin\Antlr3.Runtime.dll
+C:\Projects\SIL\SIL.Web\bin\Autofac.dll
+C:\Projects\SIL\SIL.Web\bin\Autofac.Integration.Mvc.dll
+C:\Projects\SIL\SIL.Web\bin\Autofac.Integration.WebApi.dll
+C:\Projects\SIL\SIL.Web\bin\AutoMapper.dll
+C:\Projects\SIL\SIL.Web\bin\AutoMapper.Net4.dll
+C:\Projects\SIL\SIL.Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Projects\SIL\SIL.Web\bin\DotNetOpenAuth.Core.dll
+C:\Projects\SIL\SIL.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Projects\SIL\SIL.Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Projects\SIL\SIL.Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Projects\SIL\SIL.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Projects\SIL\SIL.Web\bin\EntityFramework.dll
+C:\Projects\SIL\SIL.Web\bin\Glimpse.Ado.dll
+C:\Projects\SIL\SIL.Web\bin\Glimpse.AspNet.dll
+C:\Projects\SIL\SIL.Web\bin\Glimpse.Core.dll
+C:\Projects\SIL\SIL.Web\bin\Glimpse.EF5.dll
+C:\Projects\SIL\SIL.Web\bin\Glimpse.Mvc4.dll
+C:\Projects\SIL\SIL.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\SIL\SIL.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Projects\SIL\SIL.Web\bin\Newtonsoft.Json.dll
+C:\Projects\SIL\SIL.Web\bin\SIL.CommadProcessor.dll
+C:\Projects\SIL\SIL.Web\bin\SIL.DataLayer.dll
+C:\Projects\SIL\SIL.Web\bin\SIL.Domain.dll
+C:\Projects\SIL\SIL.Web\bin\SIL.Service.dll
+C:\Projects\SIL\SIL.Web\bin\System.Net.Http.Formatting.dll
+C:\Projects\SIL\SIL.Web\bin\System.Web.Helpers.dll
+C:\Projects\SIL\SIL.Web\bin\System.Web.Http.dll
+C:\Projects\SIL\SIL.Web\bin\System.Web.Http.WebHost.dll
+C:\Projects\SIL\SIL.Web\bin\System.Web.Mvc.dll
+C:\Projects\SIL\SIL.Web\bin\System.Web.Optimization.dll
+C:\Projects\SIL\SIL.Web\bin\System.Web.Razor.dll
+C:\Projects\SIL\SIL.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\SIL\SIL.Web\bin\System.Web.WebPages.dll
+C:\Projects\SIL\SIL.Web\bin\System.Web.WebPages.Razor.dll
+C:\Projects\SIL\SIL.Web\bin\WebGrease.dll
+C:\Projects\SIL\SIL.Web\bin\WebMatrix.Data.dll
+C:\Projects\SIL\SIL.Web\bin\WebMatrix.WebData.dll
+C:\Projects\SIL\SIL.Web\bin\SIL.Core.dll
+C:\Projects\SIL\SIL.Web\bin\SIL.CommadProcessor.pdb
+C:\Projects\SIL\SIL.Web\bin\SIL.DataLayer.pdb
+C:\Projects\SIL\SIL.Web\bin\SIL.Domain.pdb
+C:\Projects\SIL\SIL.Web\bin\SIL.Service.pdb
+C:\Projects\SIL\SIL.Web\bin\Autofac.xml
+C:\Projects\SIL\SIL.Web\bin\Autofac.Integration.Mvc.xml
+C:\Projects\SIL\SIL.Web\bin\Autofac.Integration.WebApi.xml
+C:\Projects\SIL\SIL.Web\bin\AutoMapper.xml
+C:\Projects\SIL\SIL.Web\bin\EntityFramework.xml
+C:\Projects\SIL\SIL.Web\bin\Newtonsoft.Json.xml
+C:\Projects\SIL\SIL.Web\bin\System.Net.Http.Formatting.xml
+C:\Projects\SIL\SIL.Web\bin\System.Web.Helpers.xml
+C:\Projects\SIL\SIL.Web\bin\System.Web.Http.xml
+C:\Projects\SIL\SIL.Web\bin\System.Web.Http.WebHost.xml
+C:\Projects\SIL\SIL.Web\bin\System.Web.Mvc.xml
+C:\Projects\SIL\SIL.Web\bin\System.Web.Razor.xml
+C:\Projects\SIL\SIL.Web\bin\System.Web.WebPages.xml
+C:\Projects\SIL\SIL.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\SIL\SIL.Web\bin\System.Web.WebPages.Razor.xml
+C:\Projects\SIL\SIL.Web\bin\WebMatrix.Data.xml
+C:\Projects\SIL\SIL.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Projects\SIL\SIL.Web\bin\WebMatrix.WebData.xml
+C:\Projects\SIL\SIL.Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Projects\SIL\SIL.Web\bin\DotNetOpenAuth.Core.xml
+C:\Projects\SIL\SIL.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Projects\SIL\SIL.Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Projects\SIL\SIL.Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Projects\SIL\SIL.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Projects\SIL\SIL.Web\bin\SIL.Core.pdb
+C:\Projects\SIL\SIL.Web\obj\Debug\SIL.Web.csprojResolveAssemblyReference.cache
+C:\Projects\SIL\SIL.Web\obj\Debug\SIL.Web.dll
+C:\Projects\SIL\SIL.Web\obj\Debug\SIL.Web.pdb
+C:\Projects\SIL\SIL.Web\bin\SIL.Web.Core.dll
+C:\Projects\SIL\SIL.Web\bin\SIL.Web.Core.pdb
+C:\Projects\SoftwareInformationLibrary\SIL.Web\obj\Debug\SIL.Web.csprojResolveAssemblyReference.cache
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\SIL.Web.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\SIL.Web.pdb
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Antlr3.Runtime.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Autofac.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Autofac.Integration.Mvc.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Autofac.Integration.WebApi.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\AutoMapper.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\AutoMapper.Net4.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\DotNetOpenAuth.Core.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\EntityFramework.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Glimpse.Ado.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Glimpse.AspNet.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Glimpse.Core.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Glimpse.EF5.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Glimpse.Mvc4.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Newtonsoft.Json.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\SIL.CommadProcessor.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\SIL.Core.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\SIL.DataLayer.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\SIL.Domain.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\SIL.Service.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\SIL.Web.Core.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Net.Http.Formatting.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Web.Helpers.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Web.Http.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Web.Http.WebHost.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Web.Mvc.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Web.Optimization.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Web.Razor.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Web.WebPages.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Web.WebPages.Razor.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\WebGrease.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\WebMatrix.Data.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\WebMatrix.WebData.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\SIL.CommadProcessor.pdb
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\SIL.Core.pdb
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\SIL.DataLayer.pdb
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\SIL.Domain.pdb
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\SIL.Service.pdb
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\SIL.Web.Core.pdb
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Autofac.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Autofac.Integration.Mvc.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Autofac.Integration.WebApi.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\AutoMapper.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\EntityFramework.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Newtonsoft.Json.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Net.Http.Formatting.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Web.Helpers.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Web.Http.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Web.Http.WebHost.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Web.Mvc.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Web.Razor.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Web.WebPages.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\System.Web.WebPages.Razor.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\WebMatrix.Data.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\WebMatrix.WebData.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\DotNetOpenAuth.Core.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Projects\SoftwareInformationLibrary\SIL.Web\obj\Debug\SIL.Web.dll
+C:\Projects\SoftwareInformationLibrary\SIL.Web\obj\Debug\SIL.Web.pdb
+C:\Projects\SoftwareInformationLibrary\SIL.Web\bin\Mvc.JQuery.Datatables.dll

@@ -1,0 +1,88 @@
+﻿@model SIL.Web.ViewModels.CustomerViewModel
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+
+<div id="leftPane">
+	<nav class="subMenu">
+	<h3>Actions</h3>
+	</nav>
+</div>
+<div id="rightPane">
+
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Company</legend>
+
+        <span class="editor-label">
+            @Html.LabelFor(model => model.Name)
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name)
+        </span>
+
+        <span class="editor-label">
+            @Html.LabelFor(model => model.Address1)
+            @Html.EditorFor(model => model.Address1)
+            @Html.ValidationMessageFor(model => model.Address1)
+        </span>
+
+        <span class="editor-label">
+            @Html.LabelFor(model => model.Address2)
+            @Html.EditorFor(model => model.Address2)
+            @Html.ValidationMessageFor(model => model.Address2)
+         </span>
+
+        <span class="editor-label">
+            @Html.LabelFor(model => model.Town)
+            @Html.EditorFor(model => model.Town)
+            @Html.ValidationMessageFor(model => model.Town)
+        </span>
+
+         <span>
+            @Html.LabelFor(model => model.City)
+            @Html.EditorFor(model => model.City)
+            @Html.ValidationMessageFor(model => model.City)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.TelNo)
+            @Html.EditorFor(model => model.TelNo)
+            @Html.ValidationMessageFor(model => model.TelNo)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.FaxNo)
+            @Html.EditorFor(model => model.FaxNo)
+            @Html.ValidationMessageFor(model => model.FaxNo)
+         </span>
+
+        <span>
+            @Html.LabelFor(model => model.PostCode)
+            @Html.EditorFor(model => model.PostCode)
+            @Html.ValidationMessageFor(model => model.PostCode)
+        </span>
+
+
+
+        <span>
+            <input type="submit" value="Create" class="btn green pull-right" />
+        </span>
+    </fieldset>
+}
+
+       @Html.ActionLink("Back to List", "Index", null, new { @class = "btn red pull-left" })
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+    </div>

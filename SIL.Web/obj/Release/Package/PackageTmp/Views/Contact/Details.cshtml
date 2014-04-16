@@ -1,0 +1,51 @@
+﻿@model SIL.Web.ViewModels.ContactViewModel
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Contact </legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ContactId)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ContactId)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Name)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.EmailAddress)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.EmailAddress)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.IsPrimary)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IsPrimary)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.IsSecondary)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IsSecondary)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id=Model.PrimaryKey */ }) |
+   @Html.ActionLink("Back to List", "Index", null, new { @class = "btn red pull-left" })
+</p>

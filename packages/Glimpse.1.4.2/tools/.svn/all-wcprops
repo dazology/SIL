@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/Glimpse.1.4.2/tools
+END
+glimpse.psm1
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/Glimpse.1.4.2/tools/glimpse.psm1
+END
+init.ps1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/Glimpse.1.4.2/tools/init.ps1
+END
+install.ps1
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/Glimpse.1.4.2/tools/install.ps1
+END
+uninstall.ps1
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Development/!svn/ver/4877/PSU/SIL/packages/Glimpse.1.4.2/tools/uninstall.ps1
+END

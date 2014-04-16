@@ -1,0 +1,143 @@
+﻿@model SIL.Web.ViewModels.ReleaseViewModel
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h1>Edit</h1>
+
+<div id="leftPane">
+	<nav class="subMenu">
+	<h3>Actions</h3>
+	</nav>
+</div>
+<span id="rightPane">
+    </span>
+@using (Html.BeginForm("Create", "Release"))
+{
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Release</legend>
+
+        <span>
+            @Html.LabelFor(model => model.ReleaseId)
+            @Html.EditorFor(model => model.ReleaseId)
+            @Html.ValidationMessageFor(model => model.ReleaseId)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.LiveDate)
+            @Html.EditorFor(model => model.LiveDate)
+            @Html.ValidationMessageFor(model => model.LiveDate)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.StagingDate)
+            @Html.EditorFor(model => model.StagingDate)
+            @Html.ValidationMessageFor(model => model.StagingDate)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.DevDate)
+            @Html.EditorFor(model => model.DevDate)
+            @Html.ValidationMessageFor(model => model.DevDate)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.Notes)
+            @Html.EditorFor(model => model.Notes)
+            @Html.ValidationMessageFor(model => model.Notes)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.Status)
+            @Html.EditorFor(model => model.Status)
+            @Html.ValidationMessageFor(model => model.Status)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.ReleaseTypeId)
+            @Html.EditorFor(model => model.ReleaseTypeId)
+            @Html.ValidationMessageFor(model => model.ReleaseTypeId)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.WebsiteId)
+            @Html.EditorFor(model => model.WebsiteId)
+            @Html.ValidationMessageFor(model => model.WebsiteId)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.BuildVersionNo)
+            @Html.EditorFor(model => model.BuildVersionNo)
+            @Html.ValidationMessageFor(model => model.BuildVersionNo)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.ReleaseDescription1)
+            @Html.EditorFor(model => model.ReleaseDescription1)
+            @Html.ValidationMessageFor(model => model.ReleaseDescription1)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.ReleaseDescription2)
+            @Html.EditorFor(model => model.ReleaseDescription2)
+            @Html.ValidationMessageFor(model => model.ReleaseDescription2)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.ReleaseDescription3)
+            @Html.EditorFor(model => model.ReleaseDescription3)
+            @Html.ValidationMessageFor(model => model.ReleaseDescription3)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.DbVersionNo)
+           @Html.EditorFor(model => model.DbVersionNo)
+            @Html.ValidationMessageFor(model => model.DbVersionNo)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.Build)
+            @Html.EditorFor(model => model.Build)
+            @Html.ValidationMessageFor(model => model.Build)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.DB)
+            @Html.EditorFor(model => model.DB)
+            @Html.ValidationMessageFor(model => model.DB)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.Script)
+            @Html.EditorFor(model => model.Script)
+            @Html.ValidationMessageFor(model => model.Script)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.Design)
+            @Html.EditorFor(model => model.Design)
+            @Html.ValidationMessageFor(model => model.Design)
+        </span>
+
+        <span>
+            @Html.LabelFor(model => model.Content)
+            @Html.EditorFor(model => model.Content)
+            @Html.ValidationMessageFor(model => model.Content)
+        </span>
+
+        <p>
+                       <input type="submit" value="Save" class="btn green pull-right" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index", null,   new  { @class = "btn red pull-left" })
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

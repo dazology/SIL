@@ -1,0 +1,64 @@
+﻿@model IEnumerable<SIL.Domain.Release>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Releases</h1>
+
+<div id="leftPane">
+	<nav class="subMenu">
+	<h3>Actions</h3>
+		<ul>
+			<li>@Html.ActionLink("Create New", "Create")</li>
+		</ul>
+	</nav>
+</div>
+<div id="rightPane">
+<table id="tables">
+	<thead>
+		<tr>
+			<th>
+            @Html.DisplayName("Description")
+        </th>
+        <th>
+            @Html.DisplayName("Release Date")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Notes)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ReleaseStatus)
+        </th>
+        <th></th>
+    </tr>
+	</thead>
+	<tbody>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.LiveDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StagingDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Notes)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ReleaseStatus)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ReleaseId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ReleaseId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ReleaseId }, null)
+        </td>
+    </tr>
+}
+
+</tbody>
+
+</table>
+</div>

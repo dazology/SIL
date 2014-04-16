@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web.Core/Authentication
+END
+DefaultFormsAuthentication.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web.Core/Authentication/DefaultFormsAuthentication.cs
+END
+IFormsAuthentication.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web.Core/Authentication/IFormsAuthentication.cs
+END
+UserAuthenticationTicketBuilder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Development/!svn/ver/4877/PSU/SIL/SIL.Web.Core/Authentication/UserAuthenticationTicketBuilder.cs
+END
